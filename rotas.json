@@ -1,8 +1,14 @@
-
+[
     {
       "origem":"Rua João Avelino Bernardes, 24, Inhumas - GO",
       "destino": "Apoio Empresarial - Inhumas - GO",
       "distancia_km": 1.10,
       "tempo_minutos": 3
-    }
-  
+    },
+     {
+      "origem":"Rua João Avelino Bernardes, 24, Inhumas - GO",
+      "destino": "Rede Santa Luzia 6 - Ipiranga - Inhumas - GO",
+      "distancia_km": 2.40,
+      "tempo_minutos": 5
+    }  
+]
