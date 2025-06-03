@@ -8,7 +8,25 @@
      {
       "origem":"Rua João Avelino Bernardes, 24, Inhumas - GO",
       "destino": "Rede Santa Luzia 6 - Ipiranga - Inhumas - GO",
-      "distancia_km": 2.40,
+      "distancia_km": 2.50,
       "tempo_minutos": 5
-    }  
+    },
+    {
+      "origem":"Rua João Avelino Bernardes, 24, Inhumas - GO",
+      "destino": "Prefeitura Municipal de Inhumas - Inhumas - GO",
+      "distancia_km": 3.00,
+      "tempo_minutos": 8
+    },
+    {
+      "origem":"Rua João Avelino Bernardes, 24, Inhumas - GO",
+      "destino": "Supermercado mais você - Inhumas - GO",
+      "distancia_km": 3.89,
+      "tempo_minutos": 8
+    },
+    {
+      "origem":"Rua João Avelino Bernardes, 24, Inhumas - GO",
+      "destino": "Pesque e pague recanto oliveira - Inhumas - GO",
+      "distancia_km": 5.7,
+      "tempo_minutos": 13
+    }
 ]
