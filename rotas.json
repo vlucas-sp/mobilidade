@@ -28,5 +28,11 @@
       "destino": "Pesque e pague recanto oliveira - Inhumas - GO",
       "distancia_km": 5.7,
       "tempo_minutos": 13
+    },
+    {
+      "origem":"Rua João Avelino Bernardes, 24, Inhumas - GO",
+      "destino": "IFG Campus - Inhumas - GO",
+      "distancia_km": 2.5,
+      "tempo_minutos": 6
     }
 ]
