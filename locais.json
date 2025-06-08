@@ -12,5 +12,26 @@
     "latitude": -16.649254,
     "longitude": -49.4950175,
     "raio": 13000
+  },
+  {
+    "id": 3,
+    "nome": "Goiânia, GO",
+    "latitude": -16.6868491,
+    "longitude": -49.2707899,
+    "raio": 13000
+  },
+  {
+    "id": 4,
+    "nome": "Brasília - DF",
+    "latitude": -15.7975154,
+    "longitude": -47.8918873,
+    "raio": 150000
+  },
+  {
+    "id": 5,
+    "nome": "Itaberaí, GO",
+    "latitude": -16.024951,
+    "longitude": -49.801679,
+    "raio": 15000
   }
 ]
