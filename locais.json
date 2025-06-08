@@ -4,6 +4,13 @@
     "nome": "Itauçu - GO",
     "latitude": -16.2039234,
     "longitude": -49.6047375,
-    "raio": 2.5
+    "raio": 3000
+  },
+  {
+    "id": 2,
+    "nome": "Trindade, GO",
+    "latitude": -16.649254,
+    "longitude": -49.4950175,
+    "raio": 13000
   }
 ]
