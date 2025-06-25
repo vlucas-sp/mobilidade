@@ -33,5 +33,12 @@
     "latitude": -16.024951,
     "longitude": -49.801679,
     "raio": 15000
+  },
+  {
+    "id": 6,
+    "nome": "Brazabrantes, GO",
+    "latitude": -16.4299256,
+    "longitude": -49.3864528,
+    "raio": 12000
   }
 ]
